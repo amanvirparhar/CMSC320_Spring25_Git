@@ -6,7 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science has many applications in the healthcare field. This is because patterns that are apparent in data, as well as predictions that can be made from data, are key in helping researchers understand how different diseases and disorders work. This knowledge can help these researchers develop cures to these conditions, which include various types of cancers, autoimmune disorders, and more.
 
-
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: When you merge two branches, all of the commits in both of the branches are kept. However, when you rebase two branches, the history of the branch you're on is modified to include all of the commits of the previous branch along with the commits that modify that branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning cool concepts in all of my classes, and I hope to apply these concepts in the projects that I build :D
